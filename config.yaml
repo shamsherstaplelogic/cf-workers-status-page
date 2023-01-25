@@ -68,9 +68,3 @@ monitors:
     url: 'https://www.nerdsandscoundrels.com'
     method: GET
     expectStatus: 200
-    
-  - id: parkedinparadise-com
-    name: www.parkedinparadise.com
-    url: 'https://www.parkedinparadise.com'
-    method: GET
-    expectStatus: 200
